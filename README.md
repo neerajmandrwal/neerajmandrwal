@@ -10,7 +10,7 @@
 <p align="center">
   <a href="><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/neeraj-mandrwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
  
 </p>
 
@@ -119,12 +119,12 @@ Also into gaming, music, and shitposting.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithshelby&show_icons=true&hide_border=true&bg_color=7B19E4&title_color=ffffff&text_color=ffffff&icon_color=F8AF8E" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshelby&layout=compact&hide_border=true&bg_color=66D1E6&title_color=1a1a1a&text_color=1a1a1a" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neerajmandrwal&show_icons=true&hide_border=true&bg_color=7B19E4&title_color=ffffff&text_color=ffffff&icon_color=F8AF8E" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajmandrwal&layout=compact&hide_border=true&bg_color=66D1E6&title_color=1a1a1a&text_color=1a1a1a" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codewithshelby&hide_border=true&background=7B19E4&stroke=ffffff&ring=F8AF8E&fire=F8AF8E&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=neerajmandrwal&hide_border=true&background=7B19E4&stroke=ffffff&ring=F8AF8E&fire=F8AF8E&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak"/>
 </p>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
@@ -134,8 +134,6 @@ Got an idea, a bug, or just want to talk code? I'm open to collaborating on **we
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
 
 <p align="center"><i>⭐ If you like something here, drop a star. It keeps me building.</i></p>
 
