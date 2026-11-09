@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:7B19E4,100:F8AF8E&text=Shelby&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Building%20weird%20things&descAlignY=60&descSize=18" alt="Shelby banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:7B19E4,100:F8AF8E&text=Shelby&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Building%20weird%20things&descAlignY=60&descSize=18" alt="Neeraj"/>
 </p>
 
 <p align="center">
