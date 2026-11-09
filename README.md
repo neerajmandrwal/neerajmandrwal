@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/neeraj-mandrwal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
  
 </p>
@@ -22,8 +22,7 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 👾 About Me
-
-<img align="right" src="" width="150" alt="Neeraj"/>
+    
 
 I like building things. Sometimes it's web or an Ai basic python Ai chat bot.
 
